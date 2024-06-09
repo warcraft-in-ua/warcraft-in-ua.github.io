@@ -1,1 +1,2 @@
-# warcraft-in-ua.github.io
+Тестування статичних сторінок-сайтів
+https://warcraft-in-ua.github.io/
